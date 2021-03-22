@@ -1,11 +1,5 @@
-submitted by:
+Eyal Bahar & Adi Goldstein
 
-Adi Goldstein
-314963042
+valid input is without spaces (one word)
 
-Eyal Bahar
-313526907
-
-please notice, input of names is only valid without spaces (one word)
-
-enjoy!!♥
+enjoy!
